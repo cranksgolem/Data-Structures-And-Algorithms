@@ -1,0 +1,14 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\bin\Debug\MExer04b.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\bin\Debug\MExer04b.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\bin\Debug\MExer04b.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.csprojResolveAssemblyReference.cache
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.csproj.CoreCompileInputs.cache
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\bin\Debug\MExer04b.exe.config
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\bin\Debug\MExer04b.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\bin\Debug\MExer04b.pdb
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.csprojAssemblyReference.cache
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.csproj.CoreCompileInputs.cache
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer04b\obj\Debug\MExer04b.pdb

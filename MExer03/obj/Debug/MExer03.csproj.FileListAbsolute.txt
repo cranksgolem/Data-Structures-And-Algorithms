@@ -1,0 +1,53 @@
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\MExer03.exe.config
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\MExer03.exe
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\MExer03.pdb
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\MExer02.exe
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\StackImplementations.exe
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.exe
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.exe
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\StackImplementations.pdb
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\MExer02.pdb
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.pdb
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.pdb
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\obj\Debug\MExer03.exe
+C:\Users\Vinson\Desktop\MidtermExercises\MExer03\obj\Debug\MExer03.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer03.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer03.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer03.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer02.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\StackImplementations.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\StackImplementations.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer02.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.csprojResolveAssemblyReference.cache
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\StackImplementations.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer02.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.csproj.CoreCompileInputs.cache
+C:\Users\Vinson\Desktop\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.csproj.CopyComplete
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer03.exe.config
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer03.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer03.pdb
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer02.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\StackImplementations.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\StackImplementations.pdb
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\StackImplementations.exe.config
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer02.pdb
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\MExer02.exe.config
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.pdb
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericDoublyLinkedList.exe.config
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.pdb
+D:\School\3rd Year Programming\MidtermExercises\MExer03\bin\Debug\GenericArrayLinkedList.exe.config
+D:\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.csprojAssemblyReference.cache
+D:\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.csproj.CoreCompileInputs.cache
+D:\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.csproj.CopyComplete
+D:\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.exe
+D:\School\3rd Year Programming\MidtermExercises\MExer03\obj\Debug\MExer03.pdb

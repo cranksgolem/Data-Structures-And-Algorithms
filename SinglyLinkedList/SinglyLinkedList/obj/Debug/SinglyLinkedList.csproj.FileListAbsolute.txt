@@ -1,0 +1,5 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\SinglyLinkedList\SinglyLinkedList\obj\Debug\SinglyLinkedList.pdb

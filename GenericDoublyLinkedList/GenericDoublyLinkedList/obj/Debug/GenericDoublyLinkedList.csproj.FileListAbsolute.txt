@@ -1,0 +1,5 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\GenericDoublyLinkedList\GenericDoublyLinkedList\bin\Debug\GenericDoublyLinkedList.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\GenericDoublyLinkedList\GenericDoublyLinkedList\bin\Debug\GenericDoublyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\GenericDoublyLinkedList\GenericDoublyLinkedList\bin\Debug\GenericDoublyLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\GenericDoublyLinkedList\GenericDoublyLinkedList\obj\Debug\GenericDoublyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\GenericDoublyLinkedList\GenericDoublyLinkedList\obj\Debug\GenericDoublyLinkedList.pdb

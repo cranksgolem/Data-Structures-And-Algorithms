@@ -1,0 +1,1 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\GenericSinglyLinkedList\GenericSinglyLinkedList\bin\Debug\GenericSinglyLinkedList.exe.config

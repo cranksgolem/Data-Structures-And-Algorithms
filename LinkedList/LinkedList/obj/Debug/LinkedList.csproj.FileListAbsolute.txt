@@ -1,0 +1,5 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\DoublyLinkedList\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\DoublyLinkedList\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache

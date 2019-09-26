@@ -1,0 +1,10 @@
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\StackImplementations.exe.config
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\StackImplementations.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\StackImplementations.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\GenericArrayLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\GenericDoublyLinkedList.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\GenericDoublyLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\bin\Debug\GenericArrayLinkedList.pdb
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\obj\Debug\StackImplementations.csprojResolveAssemblyReference.cache
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\obj\Debug\StackImplementations.exe
+C:\Users\Vinson\Desktop\School\3rd Year Programming\Stack\StackImplementations\obj\Debug\StackImplementations.pdb
